@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thedemonsid
-- 👀 I’m interested in creating and dismanling stuff
+- 👀 I’m interested in creating and dismantling stuff
 - 🌱 I’m currently learning backend web developement
 - 💞️ I’m looking to collaborate on backend web developement
 - 📫 How to reach me - siddheshshrirame@gmail.com
