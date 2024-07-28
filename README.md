@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @thedemonsid</h1>
 <h3 align="center">A passionate backend developer and creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thedemonsid&label=Profile%20views&color=0e75b6&style=flat" alt="thedemonsid" /> </p>
-
 - 👀 I’m interested in **creating and dismantling stuff**
 - 🌱 I’m currently learning **backend web development**
 - 💞️ I’m looking to collaborate on **backend web development and other interesting projects**
