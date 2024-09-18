@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm @thedemonsid</h1>
-<h3 align="center">A passionate backend developer and creator</h3>
+<h1 align="center">Hi 👋, I'm Siddhesh</h1>
+<h3 align="center">A passionate Web developer</h3>
 
 - 👀 I’m interested in **creating and dismantling stuff**
-- 🌱 I’m currently learning **backend web development**
-- 💞️ I’m looking to collaborate on **backend web development and other interesting projects**
+- 🌱 I’m currently learning **web development**
+- 💞️ I’m looking to collaborate on **web development and other interesting projects**
 - 📫 How to reach me: **siddheshshrirame@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I want to start my own startup with my best friend @Vdcds**
