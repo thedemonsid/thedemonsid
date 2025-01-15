@@ -1,18 +1,47 @@
-<h1 align="center">Hi 👋, I'm Siddhesh</h1>
-<h3 align="center">A passionate Web developer</h3>
+# Hi there! 👋
 
-- 👀 I’m interested in **creating and dismantling stuff**
-- 🌱 I’m currently learning **web development**
-- 💞️ I’m looking to collaborate on **web development and other interesting projects**
-- 📫 How to reach me: **siddheshshrirame@gmail.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I want to start my own startup with my best friend @Vdcds**
+I’m **Siddhesh**, an enthusiastic coder who loves solving problems and building innovative solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/siddhesh-shrirame-b9427a257/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-profile" height="30" width="40" /></a>
-<a href="https://x.com/the_demon_sid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="your-profile" height="30" width="40" /></a>
-</p>
+---
+
+### My Journey 🚀
+
+- My journey into tech began when I tried to dual boot my laptop to Ubuntu. It was a rollercoaster of excitement (`If Dead screen with GRUB interface when you have made ubuntu your primary OS but also deleted the ubuntu OS from windows means excitement`) and learning, but successfully navigating that process ignited my passion for technology.
+
+- The next big moment came when I created my first AI chess game. Watching the pieces move across the board, controlled by logic I wrote, was both thrilling and empowering—it completely hooked me on programming.
+
+---
+
+### Hackathon Adventures 🏆
+
+I’ve been diving into **hackathons** to test my skills and push my limits. One unforgettable hackathon stands out:  
+
+- Worked **18 hours straight** just to qualify for the first round.  
+- In the second round, I stayed focused, kept grinding, and **won the competition**.  
+- The victory was so overwhelming, I actually cried—though I couldn’t quite explain why.  
+
+---
+
+### Tools and Tech 🛠️
+
+I most work with following technologies but really love to wander off sometme just for fun:
+
+- **Languages:** JavaScript, TypeScript, C++  
+- **Frameworks:** React, Next.js  
+- **Databases:** PostgreSQL, SQLite , MongoDB
+- **UI Libraries** Tailwind CSS , Shadcn 
+- **Terminal:** Alacritty
+- **Other Tools:** Docker, Git, Prisma, Vercel
+
+---
+
+> Currently I am working on a educational platform [code2tech](https://www.code2tech.net/) where we aim to create engaging and interactive learning experience for children with less exposure to tech and education.
+
+---
+
+Feel free to connect or check out my projects!  
+[Twitter Profile](https://x.com/the_demon_sid) | [LinkedIn](https://www.linkedin.com/in/siddhesh-shrirame-b9427a257/) | [BlueSky](https://bsky.app/profile/the-demon-sid.bsky.social)
+
 
 <!---
 thedemonsid/thedemonsid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
