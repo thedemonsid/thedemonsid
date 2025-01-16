@@ -24,7 +24,7 @@ I’ve been diving into **hackathons** to test my skills and push my limits. One
 
 ### Tools and Tech 🛠️
 
-I most work with following technologies but really love to wander off sometme just for fun:
+I most work with following technologies but really love to wander off sometimes just for fun:
 
 - **Languages:** JavaScript, TypeScript, C++  
 - **Frameworks:** React, Next.js  
