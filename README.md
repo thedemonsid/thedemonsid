@@ -2,7 +2,6 @@
 
 I’m **Siddhesh**, an enthusiastic coder who loves solving problems and building innovative solutions.
 
----
 
 ### My Journey 🚀
 
@@ -10,7 +9,6 @@ I’m **Siddhesh**, an enthusiastic coder who loves solving problems and buildin
 
 - The next big moment came when I created my first AI chess game. Watching the pieces move across the board, controlled by logic I wrote, was both thrilling and empowering—it completely hooked me on programming.
 
----
 
 ### Hackathon Adventures 🏆
 
@@ -20,7 +18,6 @@ I’ve been diving into **hackathons** to test my skills and push my limits. One
 - In the second round, I stayed focused, kept grinding, and **won the competition**.  
 - The victory was so overwhelming, I actually cried—though I couldn’t quite explain why.  
 
----
 
 ### Tools and Tech 🛠️
 
@@ -33,11 +30,9 @@ I most work with following technologies but really love to wander off sometimes 
 - **Terminal:** Alacritty
 - **Other Tools:** Docker, Git, Prisma, Vercel
 
----
 
 > Currently I am working on a educational platform [code2tech](https://www.code2tech.net/) where we aim to create engaging and interactive learning experience for children with less exposure to tech and education.
 
----
 
 Feel free to connect or check out my projects!  
 [Twitter Profile](https://x.com/the_demon_sid) | [LinkedIn](https://www.linkedin.com/in/siddhesh-shrirame-b9427a257/) | [BlueSky](https://bsky.app/profile/the-demon-sid.bsky.social)
