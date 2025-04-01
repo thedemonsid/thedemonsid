@@ -31,7 +31,7 @@ I most work with following technologies but really love to wander off sometimes 
 - **Other Tools:** Docker, Git, Prisma, Vercel
 
 
->Currently, my friend Vdcds and I are working on our blog platform, Vdsidously, where we share our knowledge, experiences, and insights on topics we learn about, explore, and excel in.
+>Currently, my friend Vdcds and I are working on our blog platform, [Vdsidously](https://blog.code2tech.net/), where we share our knowledge, experiences, and insights on topics we learn about, explore, and excel in.
 
 
 Feel free to connect or check out my projects!  
