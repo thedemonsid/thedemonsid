@@ -31,7 +31,7 @@ I most work with following technologies but really love to wander off sometimes 
 - **Other Tools:** Docker, Git, Prisma, Vercel
 
 
-> Currently I am working on a educational platform [code2tech](https://www.code2tech.net/) where we aim to create engaging and interactive learning experience for children with less exposure to tech and education.
+>Currently, my friend Vdcds and I are working on our blog platform, Vdsidously, where we share our knowledge, experiences, and insights on topics we learn about, explore, and excel in.
 
 
 Feel free to connect or check out my projects!  
